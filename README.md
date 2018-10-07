@@ -1,5 +1,2 @@
-"# todo-app" 
-"# todo-app" 
-"# todo-app" 
-"# todo-app" 
-"# todo-app" 
+#Todo App
+This is the simple javasccript todo app.
